@@ -1,6 +1,5 @@
-# Emerging Market Trends in Recruitment: What to Expect in 2024
+# Emerging Market Trends in Recruitment: What to Expect in 
 
-![ Alt Text](https://recruiterflow.com/blog/recruitment-trends/)
 The recruitment landscape is constantly evolving, shaped by technology, changing workforce demographics, and shifting business needs. As we head into 2024, new trends are emerging that are transforming the way organizations attract, select, and retain talent. In this blog, we’ll dive into the *recruitment trends* that will dominate in the coming year, with a special focus on Gen Z candidates, the Indian market, and the education sector.
 
 ### Key Recruitment Trends for 2024
