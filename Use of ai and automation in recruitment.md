@@ -1,6 +1,5 @@
 # Use of AI and Automation in Recruitment: Transforming the Hiring Process
 
-![ AI logo](https://www.recruitbpm.com/blog/artificial-intelligence-in-recruitment/)
 Artificial Intelligence (AI) is rapidly transforming industries worldwide, and recruitment is no exception. The use of **AI recruitment tools** and platforms has made the hiring process more efficient, streamlined, and data-driven. From AI-powered chatbots to sophisticated algorithms, automation is reshaping how companies source, screen, and hire candidates. This blog explores the **benefits of AI recruitment**, the tools driving the transformation, and the challenges, such as dehumanization, associated with this technological shift.
 
 ### How AI is Revolutionizing Recruitment
